@@ -1,10 +1,12 @@
 # Md Rashedul Hasan — Modern Academic CV
 
-GitHub Pages-ready academic CV with a modern, restrained interactive design and Europass-style information structure.
+GitHub Pages-ready academic CV.
 
-Upload all files in this folder to the repository root:
-- index.html
-- style.css
-- script.js
-- profile.jpg
-- README.md
+## Files
+- `index.html` — CV structure/content
+- `style.css` — responsive desktop/tablet/mobile design
+- `script.js` — interactive skill cards and subtle motion
+- `profile.jpg` — profile photo
+- `README.md` — repository notes
+
+Upload these files to the root of the `rafsunrashed.github.io` repository. Do not upload the ZIP itself.
